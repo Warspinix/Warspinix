@@ -1,4 +1,4 @@
-## Hello there!
+# Yuvaraj Karunakaran
 
 <!--
 **Warspinix/Warspinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- This is Yuvaraj! An aspiring programmer and web developer at your service!
+- Hello there! This is Yuvaraj!
+- An aspiring programmer and web developer at your service!*
 - I am currently pursuing my Information Technology degree in Madras Institute of Technology, Anna University.
