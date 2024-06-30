@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Yuvaraj! An aspiring programmer and web developer at your service!
-I am currently pursuing my Information Technology degree in Madras Institute of Technology, Anna University.
+- This is Yuvaraj! An aspiring programmer and web developer at your service!
+- I am currently pursuing my Information Technology degree in Madras Institute of Technology, Anna University.
