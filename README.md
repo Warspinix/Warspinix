@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - Hello there! This is Yuvaraj!
-- An aspiring programmer and web developer at your service!*
+- An aspiring programmer and web developer at your service!
 - I am currently pursuing my Information Technology degree in Madras Institute of Technology, Anna University.
